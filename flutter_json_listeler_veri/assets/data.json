@@ -1,0 +1,46 @@
+{
+    "persons": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "address": [
+                {
+                    "street": "123 Main St",
+                    "city": "Anytown",
+                    "state": "CA",
+                    "zip": "12345",
+                    "turu": "iş adresi"
+                },
+                {
+                    "street": "456 Oak St",
+                    "city": "Othertown",
+                    "state": "NY",
+                    "zip": "67890",
+                    "turu": "ev adresi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "address": [
+                {
+                    "street": "789 Pine St",
+                    "city": "AnotherTown",
+                    "state": "TX",
+                    "zip": "54321",
+                    "turu": "iş adresi"
+                },
+                {
+                    "street": "321 Maple St",
+                    "city": "YetAnotherTown",
+                    "state": "FL",
+                    "zip": "98765",
+                    "turu": "ev adresi"
+                }
+            ]
+        }
+    ]
+}
